@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\bin\Debug\net8.0\tpmodul5_1302223124.exe
 C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\bin\Debug\net8.0\tpmodul5_1302223124.deps.json
 C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\bin\Debug\net8.0\tpmodul5_1302223124.runtimeconfig.json
 C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\bin\Debug\net8.0\tpmodul5_1302223124.dll
 C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\bin\Debug\net8.0\tpmodul5_1302223124.pdb
+=======
+>>>>>>> generic-class
 C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\obj\Debug\net8.0\tpmodul5_1302223124.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\obj\Debug\net8.0\tpmodul5_1302223124.AssemblyInfoInputs.cache
 C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\obj\Debug\net8.0\tpmodul5_1302223124.AssemblyInfo.cs
